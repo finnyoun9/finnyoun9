@@ -47,16 +47,3 @@ manipulator.
 1. Finish the smart-home project as a stable, documented `v1.0` demo.
 2. Assemble and validate the mecanum robot from one motor to four-wheel closed-loop control.
 3. Use [agent-collab-hub](https://github.com/finnyoun9/agent-collab-hub/blob/main/docs/macos-agent-workflow.md) to make Codex, VS Code agents and GitHub handoffs reproducible.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=finnyoun9&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=94a3b8&icon_color=64748b">
-  <img src="https://github-readme-stats.vercel.app/api?username=finnyoun9&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00" width="49%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=finnyoun9&layout=compact&hide_border=true&bg_color=00000000&title_color=e2e8f0&text_color=94a3b8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnyoun9&layout=compact&hide_border=true&bg_color=ffffff00" width="35%">
-</picture>
-
-</div>
